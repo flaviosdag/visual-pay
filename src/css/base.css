@@ -50,3 +50,8 @@ body {
   display: flex;
   align-items: center;
 }
+
+#copy a {
+  text-decoration: none;
+  color: white;
+}
